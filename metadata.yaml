@@ -1,0 +1,36 @@
+_repo: B-la-a-buta_40748
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40748-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kosztolányi, Dezső
+    aliases:
+    - Kosztolanyi, Dezso
+    - Kosztolanyi, Desire
+    - Kostolani, Dezhe
+    - Kosztolányi, Désiré
+    birthdate: 1885
+    deathdate: 1936
+    gutenberg_agent_id: '40807'
+    url: http://www.gutenberg.org/2009/agents/40807
+    wikipedia: http://hu.wikipedia.org/wiki/Kosztol%C3%A1nyi_Dezs%C5%91
+description: ''
+gutenberg_issued: '2012-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40748'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Hungarian'
+- !lcc 'PH'
+- !lcsh 'Hungarian fiction -- 20th century'
+tableOfContents: Ezüstbot -- A jó bíró -- Fogfájás -- F. F. rejtélyes gyógyulása --
+  Legenda -- Üvegszem -- Béla, a buta (Regényvázlat húsz pillanatképben) -- Hűség
+  -- Szemetes -- Apa.
+title: Béla, a buta
+url: http://www.gutenberg.org/ebooks/40748
