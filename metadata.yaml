@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40807
     wikipedia: http://hu.wikipedia.org/wiki/Kosztol%C3%A1nyi_Dezs%C5%91
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40748#B-la-a-buta
 gutenberg_issued: '2012-09-13'
 gutenberg_type: Text
 identifiers:
